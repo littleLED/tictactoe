@@ -1,0 +1,12 @@
+{
+    "name": "littleled/tictactoe",
+    "require": {
+        "phpunit/phpunit": "5.7"
+    },
+    "authors": [
+        {
+            "name": "littleLED",
+            "email": "littlehorse163@163.com"
+        }
+    ]
+}
